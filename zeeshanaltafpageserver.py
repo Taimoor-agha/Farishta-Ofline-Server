@@ -118,7 +118,7 @@ def send_message():
   <footer class="footer">
     <p>&copy; Developed by Asmani Farishta 2024. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
-    <p>Keep enjoying  <a href="https://github.com/zeeshanqureshi0</a></p>
+    <p>Keep enjoying  <a href="https://taimoor-agha.github.io</a></p>
   </footer>
 </body>
   </html>
